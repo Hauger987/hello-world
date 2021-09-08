@@ -1,2 +1,2 @@
 # hello-world
-first assignment
+first assignment. learning how this works, i guess.
